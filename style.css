@@ -1,0 +1,416 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#headerdiv {
+    display: flex;
+    padding: 15px 22px;
+    padding-bottom: 7px;
+    background-color: #fafafa; 
+}
+
+#headerlogoimg {
+    width: 100px;
+    height: 26px;
+}
+
+#headerlogo {
+    padding-top: 3px;
+}
+
+#headertext {
+    font-size: 25px;
+    margin-right: 350px;
+}
+
+#gmail {
+    font-size: 16px;
+    padding-top: 9px;
+    margin-left: 370px;
+}
+
+#profileimg {
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+#firstpara {
+    background-color: #ff7700;
+    color: white;
+    padding: 15px;
+}
+
+#maindiv2 {
+    display: flex;
+    background-color: #fafafa;
+    position: relative;
+}
+
+#fortext {
+    width: 100%;
+    height: 100%;
+}
+
+#forimg {
+    width: 100%;
+    height: 363px;
+}
+
+#bluebutton {
+    position: absolute;
+    right: 47.3%;
+    top: 63%;
+}
+
+#learn {
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+#analytic {
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#heroimg {
+    width: 100%;
+    height: 363px;
+}
+
+#bluebg {
+    background-color: #4285f4;
+    width: 100%;
+}
+
+#bluebgheader {
+    color: white;
+    font-size: 27px;
+    margin-left: 70px;
+    padding-top: 35px;
+}
+
+#rightarrow1 {
+    margin-top: 90px;
+    margin-left: 190px;
+}
+
+#rightarrow2 {
+    margin-top: 110px;
+    margin-left: 200px;
+}
+
+#rightarrow3 {
+    margin-top: 90px;
+    margin-left: 200px;
+}
+
+#rightarrow4 {
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+#rightarrow5 {
+    margin-top: 130px;
+    margin-left: 200px;
+}
+
+#rightarrow6 {
+    margin-top: 90px;
+    margin-left: 200px;
+}
+
+#whitelabeldecrip{
+    font-size: 17px;
+    margin-top: 30px;
+    margin-left: 18px;
+}
+
+#whitelabeltext {
+    font-size: 23px;
+    line-height: 30px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+#iconforwhtelabel {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.whitelabel {
+    background-color: white;
+    width: 270px;
+    height: 430px;
+    border-radius: 3px;
+}
+
+#whitelabeldiv {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 20px;
+    margin-left: 80px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+
+#meet {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-bottom: 50px;
+}
+
+#justin {
+    background-color: #f2f2f2;
+    display: flex;
+    width: 1180px;
+    margin-left: 80px;
+    margin-bottom: 60px;
+    box-shadow: 1px 1px 5px;
+}
+
+#justintext {
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#justindescription {
+    text-align: justify;
+    font-size: 17px;
+    padding: 20px 20px ;
+    padding-top: 30px;
+}
+
+#ashish {
+    background-color: #f2f2f2;
+    display: flex;
+    width: 1180px;
+    margin-left: 80px;
+    margin-bottom: 60px;
+    box-shadow: 1px 1px 5px;
+}
+
+#ashishtext {
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#ashishdescription {
+    text-align: justify;
+    font-size: 17px;
+    padding: 20px 20px ;
+    padding-top: 30px;
+}
+
+#krista {
+    background-color: #f2f2f2;
+    display: flex;
+    width: 1180px;
+    margin-left: 80px;
+    margin-bottom: 60px;
+    box-shadow: 1px 1px 5px;
+}
+
+#kristatext {
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#kristadescription {
+    text-align: justify;
+    font-size: 17px;
+    padding: 20px 20px ;
+    padding-top: 30px;
+}
+
+#youtube {
+    font-size: 30px;
+    margin-left: 80px;
+    margin-bottom: 25px;
+}
+
+#overview {
+    font-size: 16px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+    width: 1180px;
+}
+
+#gettingstarteddiv {
+    display: flex;
+    column-gap: 15px;
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+
+#gettingstarted1 {
+    width: 285px;
+    height: 170px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 5px;
+}
+
+#gettingstarted2 {
+    width: 285px;
+    height: 170px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 5px;
+}
+
+#gettingstarted3 {
+    width: 285px;
+    height: 170px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 5px;
+}
+
+#gettingstarted4 {
+    width: 285px;
+    height: 170px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 3px;
+}
+
+#gettingstarted1img {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+#gettingstarted1text {
+    text-align: center;
+    font-size: 18px;
+}
+
+#gettingstarted2img {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+#gettingstarted2text {
+    text-align: center;
+    font-size: 18px;
+}
+
+#gettingstarted3img {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+#gettingstarted3text {
+    text-align: center;
+    font-size: 18px;
+}
+
+#gettingstarted4img {
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+#gettingstarted4text {
+    text-align: center;
+    font-size: 18px;
+}
+
+#footer {
+    background-color: #f2f2f2;
+}
+
+#additional {
+    padding-top: 25px;
+    padding-left: 50px;
+    font-size: 18px;
+    padding-bottom: 25px;
+}
+
+#footerlogodiv {
+    padding-top: 50px;
+    display: flex;
+    column-gap: 90px;
+    margin-left: 200px;
+    padding-bottom: 70px;
+}
+
+#footerlogo1 {
+    margin-left: 35px;
+}
+
+#afterfooter {
+    background-color: white;
+    font-size: 14px;
+    padding-left: 750px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#footerlogo1text {
+    text-align: center;
+}
+
+#footerlogo2 {
+    margin-left: 35px;
+}
+
+#footerlogo2text {
+    text-align: center;
+}
+
+#footerlogo3 {
+    margin-left: 35px;
+}
+
+#footerlogo3text {
+    text-align: center;
+}
+
+#footerlogo4 {
+    margin-left: 35px;
+}
+
+#footerlogo4text {
+    text-align: center;
+}
+
+#footerlogo5 {
+    margin-left: 35px;
+}
+
+#footerlogo5text {
+    text-align: center;
+}
+

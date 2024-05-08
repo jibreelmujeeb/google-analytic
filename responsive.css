@@ -1,0 +1,203 @@
+@media screen and (max-width:478px) {
+    #gmail {
+        display: none;
+    }
+    #profile {
+        display: none;
+    }
+    #headertext {
+        font-size: 18px;
+        margin-right: 0;
+        margin-left: 3px;
+        margin-top: 5px;
+    }
+    #headerlogoimg {
+        width: 70px;
+        height: 24px;
+    }
+    #firstpara {
+        font-size: 15px;
+        width: 100%;
+    }
+    #forimg {
+        display: none;
+    }
+    #bluebutton {
+        display: none;
+    }
+    #learnbr{
+        display: none;
+    }
+    #learn{
+        padding-left: 15px;
+        padding-top: 35px;
+        font-size: 23px;
+    }
+    #analytic{
+        padding-left: 30px;
+        padding-top: 30px;
+        text-align: left;
+        padding-bottom: 50px;
+    }
+    #br2{
+        display: none;
+    }
+    #whitelabeldiv {
+        flex-direction: column;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+    #bluebgheader {
+        margin-left: 10px;
+    }
+    .whitelabel {
+        width: 98%;
+    }
+    #meet{
+        font-size: 25px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+    }
+    #Instructors{
+        display: none;
+    }
+    #justin {
+        width: 95%;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    #krista {
+        width: 95%;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    #ashish {
+        width: 95%;
+        margin-left: 10px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    #youtube {
+        font-size: 25px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    #overview{
+        margin-left: 15px;
+        margin-bottom: 30px;
+        width: 95%;
+    }
+    #gettingstarteddiv{
+        flex-direction: column;
+        margin-left: 10px;
+        row-gap: 10px;
+    }
+    #gettingstarted1 {
+        width: 98%;
+        height: 150px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        box-shadow: 1px 1px 3px;
+    }
+    #gettingstarted2 {
+        width: 98%;
+        height: 140px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        box-shadow: 1px 1px 3px;
+    }
+    #gettingstarted3 {
+        width: 98%;
+        height: 140px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        box-shadow: 1px 1px 3px;
+    }
+    #gettingstarted4 {
+        width: 98%;
+        height: 140px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        box-shadow: 1px 1px 3px;
+    }
+    #gettingstarted1img {
+        width: 50px;
+        height: 50px;
+        margin-left: 150px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    #gettingstarted2img {
+        width: 50px;
+        height: 50px;
+        margin-left: 150px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    #gettingstarted3img {
+        width: 50px;
+        height: 50px;
+        margin-left: 150px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    #gettingstarted4img {
+        width: 50px;
+        height: 50px;
+        margin-left: 150px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    #footerlogodiv {
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        padding-bottom: 70px;
+        gap: 30px;
+    }
+    #letsee{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 20px;
+
+    }
+    #letsee a{
+        display: block;
+    }
+    #afterfooter{
+        display: none;
+    }
+    #rightarrow1 {
+        margin-top: 90px;
+        margin-left: 280px;
+    }
+    
+    #rightarrow2 {
+        margin-top: 140px;
+        margin-left: 280px;
+    }
+    
+    #rightarrow3 {
+        margin-top: 90px;
+        margin-left: 280px;
+    }
+    
+    #rightarrow4 {
+        margin-top: 60px;
+        margin-left: 280px;
+    }
+    
+    #rightarrow5 {
+        margin-top: 155px;
+        margin-left: 280px;
+    }
+    
+    #rightarrow6 {
+        margin-top: 115px;
+        margin-left: 280px;
+    }
+}
